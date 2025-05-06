@@ -1,6 +1,6 @@
 {
   "name": "@longrun/crypto-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Common crypto utilities",
   "license": "MIT",
   "types": "./dist/index.d.ts",
@@ -18,8 +18,7 @@
     "test": "vitest run",
     "test:watch": "vitest"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^22.13.0",
     "tsx": "^4.19.2",
